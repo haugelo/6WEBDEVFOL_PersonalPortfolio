@@ -1,0 +1,20 @@
+.MainHeading{
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 3%;
+}
+
+.corporationMessage{
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    left: 18%;
+    top: 180%;
+}
+
+.Form {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
